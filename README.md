@@ -1,0 +1,1 @@
+This is a mini project aimed at sharpening my web dev skills as it is all about using javascript to create a joke-telling site with a robotic animated gif. A little of Html and Css while Javascript is used to bring the whole program to a complete fruition
